@@ -13,6 +13,8 @@
 - (void)dealloc
 {
     //bbaa
+    //继续尝试Github的使用方法
+    //again
     [_window release];
     [super dealloc];
 }
